@@ -2,4 +2,4 @@
 
 - 👀 I’m interested in : Web Developement; Hiking/VTT; Games
     
-- 🌱 I’m currently learning : Life; Wed Developement (HTML/CSS/JS/PHP)
+- 🌱 I’m currently learning : Life; Web Developement (HTML/CSS/JS/PHP)
