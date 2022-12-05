@@ -12,6 +12,7 @@
 
 
 #### 🛠️ Languages and tools
+<div class="">
 <img src="https://devicons.railway.app/i/html5.svg" alt="html5" width="24" height="24"/>
 <img src="https://devicons.railway.app/i/css3.svg" alt="css3" width="24" height="24"/>
 <img src="https://devicons.railway.app/i/sass.svg" alt="sass" width="24" height="24"/>
@@ -19,3 +20,4 @@
 <img src="https://devicons.railway.app/i/php.svg" alt="javascript" width="24" height="24"/>
 <img src="https://devicons.railway.app/i/nginx.svg" alt="javascript" width="24" height="24"/>
 <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="24" height="24"/>
+</div>
