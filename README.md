@@ -17,6 +17,11 @@
 <img src="https://devicons.railway.app/i/css3.svg" alt="css3" width="24" height="24"/>
 <img src="https://devicons.railway.app/i/sass.svg" alt="sass" width="24" height="24"/>
 <img src="https://devicons.railway.app/i/javascript.svg" alt="javascript" width="24" height="24"/>
+  <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/tailwindlabs/tailwindcss/HEAD/.github/logo-dark.svg">
+      <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/tailwindlabs/tailwindcss/HEAD/.github/logo-light.svg">
+      <img alt="Tailwind CSS" src="https://raw.githubusercontent.com/tailwindlabs/tailwindcss/HEAD/.github/logo-light.svg" width="350" height="70" style="max-width: 100%;">
+    </picture>
 <img src="https://devicons.railway.app/i/php.svg" alt="javascript" width="24" height="24"/>
 <img src="https://devicons.railway.app/i/nginx.svg" alt="javascript" width="24" height="24"/>
 <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="24" height="24"/>
